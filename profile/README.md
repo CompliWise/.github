@@ -1,6 +1,6 @@
 Hey there 👋
 
-<img align="right" src="https://github.com/compliwise/.github/blob/main/profile/img/logomark.svg" height="130" title="Compliwise Brand Logo" />
+<img align="right" src="https://github.com/compliwise/.github/blob/main/profile/img/logomark.png" height="130" title="Compliwise Brand Logo" />
 
 Welcome to __CompliWise__, where we're committed to revolutionizing the landscape of<br/>
 AI compliance and governance.
