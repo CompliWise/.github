@@ -1,4 +1,4 @@
-<img src="https://github.com/compliwise/.github/blob/main/profile/img/logomark.png" width="24px">
+<img src="https://github.com/compliwise/.github/blob/main/profile/img/logomark.png" width="48px">
 
 # [.github](https://github.com/compliwise/.github)
 
