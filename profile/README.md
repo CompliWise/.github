@@ -1,12 +1,13 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
+<img align="right" src="https://github.com/compliwise/.github/blob/main/profile/img/logomark.svg" height="130" title="Compliwise Brand Logo" />
 
-**Here are some ideas to get you started:**
+Welcome to __CompliWise__, where we're committed to revolutionizing the landscape of<br/>
+AI compliance and governance.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In a world of rapidly expanding AI, we empower you with<br/>
+continuous visibility and audit-ready evidence, ensuring your business's<br/>
+trust and growth.
+
+<br/><br/>
+**[Join us  &rarr;](https://compliwise.io/)**
